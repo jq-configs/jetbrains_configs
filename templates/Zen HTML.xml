@@ -1,5 +1,5 @@
 <templateSet group="Zen HTML">
-  <template name="er" value="&lt;% %&gt;" description="&lt;% %&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="er" value="&lt;%  %&gt;" description="&lt;%  %&gt;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS" value="false" />
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
@@ -19,7 +19,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="pe" value="&lt;%= %&gt;" description="&lt;%= %&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="pe" value="&lt;%=  %&gt;" description="&lt;%=  %&gt;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS" value="false" />
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
