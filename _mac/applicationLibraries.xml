@@ -20888,12 +20888,14 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/binding_of_caller/0.7.3" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.3/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.3/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.3/test" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.3/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/binding_of_caller/0.7.3" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.3/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.3/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.3/test" />
@@ -20978,11 +20980,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bitset_bm/1.1.0" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/bitset_bm-1.1.0/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/bitset_bm-1.1.0/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/bitset_bm-1.1.0/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bitset_bm/1.1.0" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/bitset_bm-1.1.0/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/bitset_bm-1.1.0/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/bitset_bm-1.1.0/spec" />
@@ -22461,11 +22465,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/byebug/9.1.0" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/byebug-9.1.0/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/byebug-9.1.0/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/byebug-9.1.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/byebug/9.1.0" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/byebug-9.1.0/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/byebug-9.1.0/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/byebug-9.1.0/lib" />
@@ -33628,6 +33634,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/hitimes/1.3.1" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/hitimes-1.3.1/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/hitimes-1.3.1/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/hitimes-1.3.1/spec" />
@@ -33635,6 +33642,7 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/hitimes-1.3.1/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/hitimes/1.3.1" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/hitimes-1.3.1/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/hitimes-1.3.1/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/hitimes-1.3.1/spec" />
@@ -41229,6 +41237,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/msgpack/1.1.0" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/msgpack-1.1.0/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/msgpack-1.1.0/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/msgpack-1.1.0/spec" />
@@ -41236,6 +41245,7 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/msgpack-1.1.0/doclib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/msgpack/1.1.0" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/msgpack-1.1.0/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/msgpack-1.1.0/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/msgpack-1.1.0/spec" />
@@ -43417,11 +43427,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/oj/2.15.1" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/oj-2.15.1/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/oj-2.15.1/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/oj-2.15.1/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/oj/2.15.1" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/oj-2.15.1/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/oj-2.15.1/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/oj-2.15.1/test" />
@@ -53559,12 +53571,14 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rsruby/0.5.1.1" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/rsruby-0.5.1.1/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/rsruby-0.5.1.1/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/rsruby-0.5.1.1/test" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/rsruby-0.5.1.1/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rsruby/0.5.1.1" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/rsruby-0.5.1.1/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/rsruby-0.5.1.1/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/rsruby-0.5.1.1/test" />
@@ -54094,6 +54108,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ruby-prof/0.17.0" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/ruby-prof-0.17.0/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/ruby-prof-0.17.0/doc" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/ruby-prof-0.17.0/ext" />
@@ -54102,6 +54117,7 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/ruby-prof-0.17.0/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ruby-prof/0.17.0" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/ruby-prof-0.17.0/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/ruby-prof-0.17.0/doc" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/ruby-prof-0.17.0/ext" />
@@ -58512,12 +58528,14 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/statistics2/0.54" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/statistics2-0.54/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/statistics2-0.54/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/statistics2-0.54/test" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/statistics2-0.54/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/statistics2/0.54" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/statistics2-0.54/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/statistics2-0.54/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/statistics2-0.54/test" />
