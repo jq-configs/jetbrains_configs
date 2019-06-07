@@ -9,6 +9,12 @@
   </option>
   <option name="RIGHT_MARGIN" value="1000" />
   <option name="SOFT_MARGINS" value="100" />
+  <EjsCustomCodeStyleSettings>
+    <option name="INDENT_CONTROL_BLOCKS" value="false" />
+  </EjsCustomCodeStyleSettings>
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ALIGN_TEXT" value="true" />
+  </HTMLCodeStyleSettings>
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
