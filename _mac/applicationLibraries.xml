@@ -32492,11 +32492,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/zipruby-compat/0.3.7" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/zipruby-compatibility-with-rubyzip-fork-f0e0668599cd/zipruby/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/zipruby-compatibility-with-rubyzip-fork-f0e0668599cd/zipruby/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/zipruby-compatibility-with-rubyzip-fork-f0e0668599cd/zipruby/lib1.9" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/zipruby-compat/0.3.7" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/zipruby-compatibility-with-rubyzip-fork-f0e0668599cd/zipruby/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/zipruby-compatibility-with-rubyzip-fork-f0e0668599cd/zipruby/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/zipruby-compatibility-with-rubyzip-fork-f0e0668599cd/zipruby/lib1.9" />
