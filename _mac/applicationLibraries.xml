@@ -10136,6 +10136,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/et-orbi-1.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="et-orbi (v1.2.2, rbenv: 2.4.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/et-orbi-1.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/et-orbi-1.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="etc (v1.0.0, asdf: 2.5.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -31038,6 +31049,27 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/sassc-2.0.1/test" />
       </excluded>
     </library>
+    <library name="sassc (v2.1.0, rbenv: 2.4.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/sassc/2.1.0" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/sassc-2.1.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/sassc-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/sassc-2.1.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/sassc/2.1.0" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/sassc-2.1.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/sassc-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/sassc-2.1.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/sassc-2.1.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/sassc-2.1.0/test" />
+      </excluded>
+    </library>
     <library name="sassc-rails (v2.1.2, rbenv: 2.4.6) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -37437,6 +37469,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/will_paginate-3.1.7/spec" />
+      </excluded>
+    </library>
+    <library name="will_paginate (v3.1.8, rbenv: 2.4.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/will_paginate-3.1.8/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/will_paginate-3.1.8/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/will_paginate-3.1.8/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/will_paginate-3.1.8/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/will_paginate-3.1.8/spec" />
       </excluded>
     </library>
     <library name="wkhtmltopdf-binary (v0.12.4, rbenv: 2.5.1) [gem]" type="rubylib">
