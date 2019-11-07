@@ -4,7 +4,7 @@
     <property name="created">2019-04-29T15:03:11</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-06-07T18:58:33</property>
+    <property name="modified">2019-10-29T14:40:45</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -43,8 +43,10 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff6347" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff6347" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff6347" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="91b859" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="a7a7a7" />
     <option name="FILESTATUS_MERGED" value="61aeef" />
     <option name="FILESTATUS_MODIFIED" value="e2c08d" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
@@ -1058,7 +1060,7 @@
         <option name="FOREGROUND" value="c792ea" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>
@@ -2827,9 +2829,9 @@
         <option name="FOREGROUND" value="f07178" />
       </value>
     </option>
-    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="XPATH.KEYWORD" baseAttributes="" />
+    <option name="XPATH.XPATH_NAME" baseAttributes="" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="f07178" />
