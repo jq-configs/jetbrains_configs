@@ -5183,6 +5183,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/byebug-9.1.0/ext" />
       </excluded>
     </library>
+    <library name="camertron-eprun (v1.1.1, rbenv: 2.4.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/camertron-eprun-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/camertron-eprun-1.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="cancan (v1.6.10, rbenv: 2.4.6) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5703,6 +5714,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/clbustos-rtf-0.4.2/examples" />
       </excluded>
     </library>
+    <library name="cldr-plurals-runtime-rb (v1.0.1, rbenv: 2.4.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/cldr-plurals-runtime-rb-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/cldr-plurals-runtime-rb-1.0.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/cldr-plurals-runtime-rb-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/cldr-plurals-runtime-rb-1.0.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/cldr-plurals-runtime-rb-1.0.1/spec" />
+      </excluded>
+    </library>
     <library name="climate_control (v0.2.0, rbenv: 2.4.6) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5816,6 +5843,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/codecov-0.1.14/test" />
+      </excluded>
+    </library>
+    <library name="codecov (v0.1.16, rbenv: 2.4.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/codecov-0.1.16/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/codecov-0.1.16/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/codecov-0.1.16/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/codecov-0.1.16/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/codecov-0.1.16/test" />
       </excluded>
     </library>
     <library name="coderay (v1.1.2, rbenv: 2.4.6) [gem]" type="rubylib">
@@ -27898,6 +27941,25 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/twitter-bootstrap-rails-3.2.2/spec" />
+      </excluded>
+    </library>
+    <library name="twitter_cldr (v5.0.0, rbenv: 2.4.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/twitter_cldr-5.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/twitter_cldr-5.0.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/twitter_cldr-5.0.0/resources" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/twitter_cldr-5.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/twitter_cldr-5.0.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/twitter_cldr-5.0.0/resources" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/twitter_cldr-5.0.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/twitter_cldr-5.0.0/resources" />
       </excluded>
     </library>
     <library name="typhoeus (v1.1.2, rbenv: 2.5.1) [gem]" type="rubylib">
