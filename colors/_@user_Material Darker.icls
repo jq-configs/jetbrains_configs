@@ -4,49 +4,44 @@
     <property name="created">2019-12-11T21:34:23</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2019-12-15T13:24:57</property>
+    <property name="modified">2019-12-15T13:31:45</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
-  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
     <option name="CARET_COLOR" value="ffcc00" />
     <option name="CARET_ROW_COLOR" value="181818" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="151515" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="212121" />
     <option name="DELETED_LINES_COLOR" value="f07178" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="171717" />
     <option name="DOCUMENTATION_COLOR" value="212121" />
-    <option name="FILESTATUS_ADDED" value="91b859" />
-    <option name="FILESTATUS_COPIED" value="73c990" />
-    <option name="FILESTATUS_DELETED" value="59626f" />
-    <option name="FILESTATUS_HIJACKED" value="c679dd" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="59626f" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="9da5b4" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff6347" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff6347" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff6347" />
+    <option name="FILESTATUS_HIJACKED" value="" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="a7a7a7" />
-    <option name="FILESTATUS_MERGED" value="61aeef" />
-    <option name="FILESTATUS_MODIFIED" value="e2c08d" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
     <option name="FILESTATUS_OBSOLETE" value="" />
-    <option name="FILESTATUS_RENAMED" value="c679dd" />
-    <option name="FILESTATUS_SUPPRESSED" value="abb2bf" />
-    <option name="FILESTATUS_SWITCHED" value="61aeef" />
-    <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="98c379" />
-    <option name="FILESTATUS_changelistConflict" value="ff6347" />
-    <option name="FILESTATUS_modifiedOutside" value="e5c17c" />
-    <option name="GUTTER_BACKGROUND" value="151515" />
+    <option name="FILESTATUS_SUPPRESSED" value="" />
+    <option name="FILESTATUS_SWITCHED" value="" />
+    <option name="GUTTER_BACKGROUND" value="212121" />
     <option name="INDENT_GUIDE" value="424242" />
     <option name="INFORMATION_HINT" value="212121" />
     <option name="LINE_NUMBERS_COLOR" value="424242" />
@@ -62,7 +57,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="424242" />
     <option name="SELECTED_INDENT_GUIDE" value="ff9800" />
     <option name="SELECTED_TEARLINE_COLOR" value="ff9800" />
-    <option name="SELECTION_BACKGROUND" value="151515" />
+    <option name="SELECTION_BACKGROUND" value="353535" />
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SEPARATOR_BELOW_COLOR" value="424242" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="424242" />
@@ -147,6 +142,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BNF_KEYWORD">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
@@ -682,6 +680,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="GO_FUNCTION_PARAMETER">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
@@ -1009,6 +1008,10 @@
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.MODULE_KEYWORD">
       <value>
         <option name="FOREGROUND" value="89ddff" />
@@ -1020,6 +1023,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="JS.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="ff5370" />
@@ -2270,6 +2274,7 @@
         <option name="FOREGROUND" value="219598" />
       </value>
     </option>
+    <option name="PUPPET_HEREDOC_TAGS" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="PY.ANNOTATION">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
@@ -2356,6 +2361,7 @@
         <option name="BACKGROUND" value="252b39" />
       </value>
     </option>
+    <option name="RHTML_COMMENT_ID" baseAttributes="HTML_COMMENT" />
     <option name="RHTML_EXPRESSION_END_ID">
       <value>
         <option name="FOREGROUND" value="89ddff" />
@@ -2392,28 +2398,41 @@
         <option name="FOREGROUND" value="c70267" />
       </value>
     </option>
+    <option name="RUBY_BAD_CHARACTER" baseAttributes="BAD_CHARACTER" />
+    <option name="RUBY_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
     <option name="RUBY_CONSTANT">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
+    <option name="RUBY_CONSTANT_DECLARATION" baseAttributes="DEFAULT_CONSTANT" />
+    <option name="RUBY_ESCAPE_SEQUENCE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="RUBY_GVAR" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="RUBY_HEREDOC_CONTENT" baseAttributes="TEXT" />
     <option name="RUBY_HEREDOC_ID">
       <value>
         <option name="FOREGROUND" value="c792ea" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="RUBY_INVALID_ESCAPE_SEQUENCE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
+    <option name="RUBY_LINE_CONTINUATION" baseAttributes="DEFAULT_COMMA" />
+    <option name="RUBY_LOCAL_VAR_ID" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="RUBY_METHOD_NAME" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="RUBY_NTH_REF">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
+    <option name="RUBY_NUMBER" baseAttributes="DEFAULT_NUMBER" />
     <option name="RUBY_PARAMDEF_CALL">
       <value>
         <option name="FOREGROUND" value="89ddff" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="RUBY_PARAMETER_ID" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="RUBY_REGEXP" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="RUBY_SPECIFIC_CALL">
       <value>
         <option name="FOREGROUND" value="89ddff" />
@@ -2623,17 +2642,26 @@
         <option name="BACKGROUND" value="323232" />
       </value>
     </option>
+    <option name="SLIM_CALL" baseAttributes="DEFAULT_KEYWORD" />
     <option name="SLIM_CLASS">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="SLIM_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
+    <option name="SLIM_DOCTYPE_KWD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="SLIM_FILTER" baseAttributes="DEFAULT_LABEL" />
+    <option name="SLIM_FILTER_CONTENT" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="SLIM_INTERPOLATION">
       <value>
         <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
+    <option name="SLIM_PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
+    <option name="SLIM_RUBY_CODE" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="SLIM_STATIC_CONTENT" baseAttributes="TEXT" />
+    <option name="SLIM_STRING_INTERPOLATED" baseAttributes="DEFAULT_STRING" />
     <option name="SLIM_TAG">
       <value>
         <option name="FOREGROUND" value="f07178" />
@@ -2668,6 +2696,7 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
+    <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="d1a075" />
@@ -2720,7 +2749,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="eeffff" />
-        <option name="BACKGROUND" value="151515" />
+        <option name="BACKGROUND" value="212121" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
