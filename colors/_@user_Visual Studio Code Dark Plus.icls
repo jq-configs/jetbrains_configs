@@ -1,11 +1,15 @@
 <scheme name="_@user_Visual Studio Code Dark Plus" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-12-15T14:23:37</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.3.0</property>
-    <property name="modified">2019-12-15T14:32:08</property>
+    <property name="modified">2019-12-15T14:44:43</property>
     <property name="originalScheme">Visual Studio Code Dark Plus</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <colors>
     <option name="CARET_COLOR" value="adaeac" />
     <option name="CARET_ROW_COLOR" value="262626" />
