@@ -3,7 +3,7 @@
     <property name="created">2019-12-11T21:34:23</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2020-04-21T22:08:50</property>
+    <property name="modified">2020-05-09T01:02:41</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <colors>
@@ -42,8 +42,8 @@
     <option name="GUTTER_BACKGROUND" value="171717" />
     <option name="INDENT_GUIDE" value="424242" />
     <option name="INFORMATION_HINT" value="212121" />
-    <option name="LINE_NUMBERS_COLOR" value="424242" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="616161" />
+    <option name="LINE_NUMBERS_COLOR" value="ffffff" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="2e6ff" />
     <option name="METHOD_SEPARATORS_COLOR" value="424242" />
     <option name="MODIFIED_LINES_COLOR" value="ffcb6b" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
@@ -419,7 +419,7 @@
     </option>
     <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="Class" baseAttributes="" />
+    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="Closure braces">
       <value>
         <option name="FOREGROUND" value="89ddff" />
@@ -1199,8 +1199,8 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="" />
-    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="JFLEX_MACROS_REF">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
@@ -1280,7 +1280,7 @@
         <option name="FOREGROUND" value="c792ea" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JUPYTER_SELECTED_CELL">
       <value>
         <option name="BACKGROUND" value="323232" />
@@ -2711,7 +2711,8 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="474747" />
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="820018" />
       </value>
     </option>
     <option name="OC.CLASS_REFERENCE">
@@ -2913,16 +2914,15 @@
         <option name="FOREGROUND" value="eeffff" />
       </value>
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
-    <option name="PROPERTIES.KEY" baseAttributes="" />
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
-    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="219598" />
       </value>
     </option>
-    <option name="PUPPET_HEREDOC_TAGS" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="PY.ANNOTATION">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
@@ -3037,7 +3037,6 @@
         <option name="BACKGROUND" value="252b39" />
       </value>
     </option>
-    <option name="RHTML_COMMENT_ID" baseAttributes="HTML_COMMENT" />
     <option name="RHTML_EXPRESSION_END_ID">
       <value>
         <option name="FOREGROUND" value="89ddff" />
@@ -3420,26 +3419,17 @@
         <option name="BACKGROUND" value="323232" />
       </value>
     </option>
-    <option name="SLIM_CALL" baseAttributes="DEFAULT_KEYWORD" />
     <option name="SLIM_CLASS">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="SLIM_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
-    <option name="SLIM_DOCTYPE_KWD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="SLIM_FILTER" baseAttributes="DEFAULT_LABEL" />
-    <option name="SLIM_FILTER_CONTENT" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="SLIM_INTERPOLATION">
       <value>
         <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
-    <option name="SLIM_PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
-    <option name="SLIM_RUBY_CODE" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
-    <option name="SLIM_STATIC_CONTENT" baseAttributes="TEXT" />
-    <option name="SLIM_STRING_INTERPOLATED" baseAttributes="DEFAULT_STRING" />
     <option name="SLIM_TAG">
       <value>
         <option name="FOREGROUND" value="f07178" />
@@ -3520,7 +3510,7 @@
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="SUGGESTION">
       <value>
         <option name="EFFECT_COLOR" value="607d8b" />
@@ -3556,7 +3546,7 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
-    <option name="Static method access" baseAttributes="" />
+    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
     <option name="Static property reference ID">
       <value>
         <option name="FOREGROUND" value="eeffff" />
@@ -3573,8 +3563,8 @@
         <option name="FOREGROUND" value="616161" />
       </value>
     </option>
-    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="" />
-    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="" />
+    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="HTML_ATTRIBUTE_NAME" />
+    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="HTML_TAG_NAME" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bd92ea" />
@@ -3702,9 +3692,9 @@
         <option name="FOREGROUND" value="f07178" />
       </value>
     </option>
-    <option name="XPATH.KEYWORD" baseAttributes="" />
-    <option name="XPATH.XPATH_NAME" baseAttributes="" />
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
+    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="f07178" />
@@ -3749,8 +3739,8 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="osmorc.attributeName" baseAttributes="" />
-    <option name="osmorc.directiveName" baseAttributes="" />
+    <option name="osmorc.attributeName" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="osmorc.directiveName" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="osmorc.headerName">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
